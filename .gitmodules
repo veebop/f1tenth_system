@@ -12,8 +12,8 @@
 	branch = humble-devel
 [submodule "particle_filter"]
 	path = particle_filter
-	url = https://github.com/Weber-AGV/particle_filter.git
-	branch = humble-devel
+	url = https://github.com/veebop/particle_filter
+	branch = rosdep-transforms3d
 [submodule "range_libc"]
 	path = range_libc
 	url = https://github.com/Weber-AGV/range_libc.git
